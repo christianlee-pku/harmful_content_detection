@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+.DS_Store
+*.log
+.env*
+
+# ML Artifacts
+work_dirs/
+data/
+*.pth
+*.onnx
+*.tar.gz
+
+# VS Code
+.vscode/
+
+# Tools
+specs/
+.gemini/
+GEMINI.md
+.specify/

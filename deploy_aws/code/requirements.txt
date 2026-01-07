@@ -1,0 +1,4 @@
+transformers==4.30.0
+onnxruntime>=1.15.0
+pillow
+numpy
