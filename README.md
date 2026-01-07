@@ -20,7 +20,7 @@ Detailed documentation is available in the `docs/` directory:
 
 ## 🚀 News
 
-- **[2025-12-22]** Initial release of HCD pipeline with CLIP/ViLT support, distributed training, and SageMaker deployment tools.
+- **[2026-01-07]** Initial release of HCD pipeline with CLIP/ViLT support, distributed training, and SageMaker deployment tools.
 
 ## 📖 Introduction
 
