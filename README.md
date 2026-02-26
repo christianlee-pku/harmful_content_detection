@@ -111,7 +111,7 @@ harmful_content_detection/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/christian-pku/harmful_content_detection.git
+   git clone https://github.com/christianlee-pku/harmful_content_detection.git
    cd harmful_content_detection
    ```
 
